@@ -1,4 +1,4 @@
 # devops-aula02.
-Adam Levine
-G-Eazy
-Ian Somerhalder
+Adam Levine  
+G-Eazy  
+Ian Somerhalder  
