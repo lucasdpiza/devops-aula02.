@@ -1,4 +1,5 @@
 # devops-aula02.
 Adam Levine
-G-Eazy
+Péricles
 Ian Somerhalder
+Tobey Maguire
